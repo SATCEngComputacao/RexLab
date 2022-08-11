@@ -1,6 +1,6 @@
 ## APÊNDICE A – LISTA DE MATERIAIS
 
-**Material** | **QTD** | **IMG** | **Fornecedor** | **Valor R$**
+**Material** | **QTD** | **IMG** | **Fornecedor** | **Valor R$**[^1]
 ---|:---:|:---:|:---:|:---:
 Fita Isolante – para cobrir e proteger as partes soldadas | | ![table image 1](https://user-images.githubusercontent.com/90244580/184217366-fb492fd9-ce43-448b-9e5e-22503ae40b7f.png) | | 14,90 (unidade) + frete 
 Placa de ensaio | 2 | ![table image 2](https://user-images.githubusercontent.com/90244580/184217436-46083da1-896c-4b7e-b2c6-38f255a50c3e.png) | [link](https://www.baudaeletronica.com.br/protoboard-400-pontos.html?gclid=CjwKCAjw8sCRBhA6EiwA6_IF4cEV5l5mniLyBm1JD-gw3aV8A_0J2zPvPJ0TJUaMu-efac1_YSmUCBoCl1gQAvD_BwE) | 14,90 + frete
@@ -21,4 +21,4 @@ Modulo Relé 5v 1 canal | 1 | ![table image 16](https://user-images.githubuserco
 Lm35 – sensor de temperatura | 1 | ![table image 17](https://user-images.githubusercontent.com/90244580/184226373-f4b6c64d-50e8-43a5-a6e7-76bf6e79a50e.png) | [link](https://www.baudaeletronica.com.br/sensor-de-temperatura-lm35.html) | 15,20 + frete
 Parafusos | | | | | | |
 
-
+[^1]: Valores atualizados em 12/2021.
