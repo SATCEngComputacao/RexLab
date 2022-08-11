@@ -18,6 +18,7 @@ Led 5mm | 7 | ![table image 13](https://user-images.githubusercontent.com/902445
 Led 10 mm | 5 | ![table image 14](https://user-images.githubusercontent.com/90244580/184218043-e9432258-259a-4b41-9f32-935fbaaa8f10.png) | [link](https://www.baudaeletronica.com.br/led-de-alto-brilho10mm-branco.html?gclid=CjwKCAjwxOCRBhA8EiwA0X8hi0xyCnLrrx-1mxAVvDLsHsuKzVX28EKxAxbi1drFuK-wGAPH66HORRoCRAIQAvD_BwE) | 0,99 (unidade) + frete
 Cooler 12v | 1 | ![table image 15](https://user-images.githubusercontent.com/90244580/184218084-5d5560ba-eaaf-4544-8166-7c9d88c94ef9.png) | [link](https://www.baudaeletronica.com.br/cooler-12vdc-40x40x10mm.html?gclid=CjwKCAjwxOCRBhA8EiwA0X8hi-FUsVYQF1IHl-ble1oZq7U4JRg0eLdpv6dXX4AcGOJz5KfbQGkqhRoCN3MQAvD_BwE) | 11,35 + frete
 Modulo Relé 5v 1 canal | 1 | ![table image 16](https://user-images.githubusercontent.com/90244580/184218126-921b725b-27c9-41f9-8d5d-28ea01a62485.png) | [link](https://www.filipeflop.com/produto/modulo-rele-5v-1-canal/) | 9,90 + frete
+Lm35 – sensor de temperatura | 1 | ![table image 17](https://user-images.githubusercontent.com/90244580/184226373-f4b6c64d-50e8-43a5-a6e7-76bf6e79a50e.png) | [link](https://www.baudaeletronica.com.br/sensor-de-temperatura-lm35.html) | 15,20 + frete
 Parafusos | | | | | | |
 
 
