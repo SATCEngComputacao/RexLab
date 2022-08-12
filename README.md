@@ -1,4 +1,4 @@
-# Manual de como montar a casa do RexLab
+# Manual de Montagem da Casa
 
 ![Screenshot_1](https://user-images.githubusercontent.com/80281047/183507897-19afbabc-115d-4a02-8a7a-50c83c15d44d.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/80281047/183507937-2088bb18-23ed-4276-8be9-8c26d1b38b2f.png)
