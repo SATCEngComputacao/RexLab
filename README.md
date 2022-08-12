@@ -1,4 +1,4 @@
-# RexLab-blockino
+# Manual de uso do Blockino
 
 
 ![Logo Blockino](https://user-images.githubusercontent.com/80281047/183489414-0b39f62e-47f6-4f1a-973a-0e9355b3a460.png)
