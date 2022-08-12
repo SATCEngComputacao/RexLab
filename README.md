@@ -1,11 +1,9 @@
 # RexLab-blockino
 
 
-**Manual de uso do Block.ino**
-
 ![Logo Blockino](https://user-images.githubusercontent.com/80281047/183489414-0b39f62e-47f6-4f1a-973a-0e9355b3a460.png)
 
-- **Como usar o Block.ino**
+## **Como usar o Block.ino**
 
   1 - Acesse o site do Block.ino (http://relle.ufsc.br/labs/29)
   ![Screenshot_1](https://user-images.githubusercontent.com/80281047/183491427-54f5d132-994a-47bc-83bb-4f45f134cdfd.png)
