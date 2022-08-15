@@ -15,34 +15,34 @@ As ferramentas mínimas para preparação do nosso SBC são:
 
 Cada experimento há uma imagem da distribuição Linux já pronta devidamente configurado e com softwares exclusivos instalados. As imagens foram adquiridas no link do RexLab: http://wiki.rexlab.ufsc.br/cd/images/  
 
-Pegue a imagem “arduino-labx-3B+.rar” e descompacte:
+Pegue a imagem “arduino-labx-3B+.rar” e descompacte:  
 ![image](https://user-images.githubusercontent.com/90244580/184411580-6db27609-f5cf-4a1b-bd3a-5b1d1a4d8e4b.png) 
 
 Insira o cartão SD no seu PC, em muitos casos é requerido adaptadores, pois geralmente os PCs não tem entradas para esses tipos de mídia. A imagem a seguir mostrado um dos tipos de adaptadores USB para cartão SD:  
 ![image](https://user-images.githubusercontent.com/90244580/184411635-8acd21cb-6635-46fe-bb2b-e63b864d3d19.png)  
 
-Formate o cartão SD com o “SD Formatter”, execute esse aplicativo como administrador. Vá em opções e coloque o tipo de formatação rápida e ajuste de tamanho ligado:
+Formate o cartão SD com o “SD Formatter”, execute esse aplicativo como administrador. Vá em opções e coloque o tipo de formatação rápida e ajuste de tamanho ligado:  
 ![image](https://user-images.githubusercontent.com/90244580/184411732-cd95c594-43bf-4cc8-b11f-db20ddf0e6b6.png)  
 
-Selecione o driver do pendrive alvo e clique em formatar:
+Selecione o driver do pendrive alvo e clique em formatar:  
 ![image](https://user-images.githubusercontent.com/90244580/184411761-13b35eba-1fd0-4d2b-ac57-73731d7b4e28.png)  
 
-Execute o “Win32DiskImager”:
+Execute o “Win32DiskImager”:  
 ![image](https://user-images.githubusercontent.com/90244580/184411799-57ae67da-3e13-48bc-8a94-b5fcac6a2b75.png)  
 
-Busque a imagem do sistema operacional clicando no botão com símbolo da pastinha azul:
+Busque a imagem do sistema operacional clicando no botão com símbolo da pastinha azul:  
 ![image](https://user-images.githubusercontent.com/90244580/184411831-c703ab2e-0c13-42c0-bddc-8f08ff4242c0.png)  
 
-Navegue até o local da imagem e o aponte a imagem e clique em abrir:
+Navegue até o local da imagem e o aponte a imagem e clique em abrir:  
 ![image](https://user-images.githubusercontent.com/90244580/184411852-87942f56-30bf-4a91-be68-75f2a6ae279a.png)  
 
-Selecione a unidade onde se encontra o cartão SD e clique no botão “write” dando início ao processo de gravação da imagem no cartão SD:
+Selecione a unidade onde se encontra o cartão SD e clique no botão “write” dando início ao processo de gravação da imagem no cartão SD:  
 ![image](https://user-images.githubusercontent.com/90244580/184411875-cfc4f3c5-7cc5-4fcf-ab45-ff24293ac0d2.png)  
 
-Espere pelo processo de gravação:
+Espere pelo processo de gravação:  
 ![image](https://user-images.githubusercontent.com/90244580/184411907-153bdca5-57c0-4cde-8d5f-cc4128099d1e.png)  
 
-No fim da gravação o software vai emitir um aviso de gravação concluída com sucesso. Clique “OK” para finalizar o processo.
+No fim da gravação o software vai emitir um aviso de gravação concluída com sucesso. Clique “OK” para finalizar o processo.  
 ![image](https://user-images.githubusercontent.com/90244580/184411943-99119a75-d43d-4221-9b19-e976bb1c965d.png)  
   
   **Configurando**  
@@ -81,7 +81,7 @@ O “Putty”, este pode ser baixado do site: http://www.putty.org/
 Execute-o e digite o endereço IP do SBC, que neste caso 192.168.0.25	, entre aporta de conexão do protocolo SSH, onde o padrão é a porta 22, selecione o tipo de conexão SSH, opcionalmente entre com o nome da secção e salve para futuras conexões, e tecle o botão de abrir a conexão:  
  ![image](https://user-images.githubusercontent.com/90244580/184412554-fef27165-8f8e-4c1b-97f0-737a13a05cd5.png)
   
- Durante a primeira conexão com esse IP e usuário vai haver uma troca de chave de segurança, neste caso clicando sim porque a conexão é legitima:  
+ Durante a primeira conexão com esse IP e usuário vai haver uma troca de chave de segurança, neste caso clicando sim porque a conexão é legítima:  
  ![image](https://user-images.githubusercontent.com/90244580/184412596-20e84689-2aef-46ba-b8b7-0552ddab2790.png)
   
  Quando a conexão for feita entre com usuário root e sua senha. A primeira vez pode demorar um pouco para fazer o login:  
