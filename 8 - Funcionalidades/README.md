@@ -10,5 +10,5 @@ Um dos módulos desenvolvidos para aplicação é responsável pelo serviço de 
 
 No primeiro caso, a aplicação usa a lógica necessária para validação de token de sessão enviado pelo cliente. Na segunda, todo processo realizado pela web API de fila é realizado pelo Smart Device.  
   
-Outra funcionalidade é a página de testes, uma página HTML com informações sobre sensores e entradas para ser utilizada em depuração e manutenção. Fora da aplicação contamos com um script para inicialização da aplicação como serviço Linux para manter o processo ativo e facilmente gerenciável.  
+Outra funcionalidade é a página de testes, uma página HTML com informações sobre sensores e entradas para ser utilizada em depuração e manutenção. Fora da aplicação contamos com um script para inicialização da aplicação como serviço Linux para manter o processo ativo e facilmente gerenciável.   
 
