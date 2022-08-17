@@ -1,4 +1,5 @@
-##FUNCIONALIDADES
+## FUNCIONALIDADES  
+
 Os Smart Devices desenvolvidos são capazes de comunicar-se com sensores através do barramento serial (Porta UART). Ao invés de usar o protocolo serial em sua forma bruta, optamos por incluir o protocolo Modbus na camada de aplicação para identificação de erros, endereçamento e controle de colisão. Conectados ao mesmo barramento (rede), cada sistema embarcado, responsável por um ou mais sensores ou atuadores, é um dispositivo escravo que responde às requisições da aplicação que é executada no Raspberry Pi.  
 
 A descrição do serviço por metadados permite a descoberta de serviços pelo cliente, incluindo tipos de parâmetros, valores aceitos, unidades de medidas, etc. Tão importante quanto descrever os recursos internos ao experimento é validar as entradas fornecidas pelo usuário e observar e agir sobre estados internos que representam situações de risco, tal como: verificar a faixa de intervalos de tempo para manter a fonte de calor ligada e temperatura máxima lida em qualquer termômetro, respectivamente.  
