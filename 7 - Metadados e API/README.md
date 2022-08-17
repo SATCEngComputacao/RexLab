@@ -7,6 +7,7 @@ um atuador ou reconhecimento de situações críticas, como o superaquecimento. 
 JSON (Javascript Object Notation). O compartilhamento dessa especificação permite um 
 completo desacoplamento de cliente-servidor, e pretende garantir interoperabilidade e 
 integração dos recursos do laboratório em qualquer software cliente.
+
 O formato JSON é utilizado para descrever e trocar conjuntos de dados entre aplicações, 
 independente da linguagem em que cada uma foi desenvolvida. Esse padrão foi utilizado para 
 representar entradas e saídas de dados. Trazemos o exemplo do laboratório de circuitos 
