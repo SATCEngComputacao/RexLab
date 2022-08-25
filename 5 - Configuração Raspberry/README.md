@@ -1,6 +1,6 @@
 ## Baixando os arquivos
 
-  Antes de tudo, você deve acessar este link clicando [aqui](https://onedrive.live.com/) para acessar o OndeDrive 
+  Antes de tudo, você deve acessar este link clicando [aqui](rexlab.com.br/arquivo) para acessar o OndeDrive 
 e realizar o download do arquivo que será colocado em seu cartão MicroSD.
 
   Após isso, clique aqui para acessar o site para poder baixar o [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/). Depois disso, 
@@ -18,7 +18,7 @@ espere o processo ser concluído.
   4. ls 
   5. nano queue.js
   
- - Vá para **var status={ video: "htp:/xxx.xxx.xxx.xxx"**, e coloque o IP público na porta onde o vídeo da câmera será transmitido.
+ - Vá para **var status={ video: "http://xxx.xxx.xxx.xxx:8080"**, e coloque o IP público na porta onde o vídeo da câmera será transmitido.
  
  - Com o IP configurado, aperte ctrl+x
   1. cd/home, enter
