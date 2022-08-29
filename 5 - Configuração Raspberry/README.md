@@ -1,6 +1,6 @@
 ## Baixando os arquivos
 
-  Antes de tudo, você deve acessar este link clicando [aqui](https://alunosatcedu-my.sharepoint.com/:f:/g/personal/jefferson_57221_alunosatc_edu_br/Ep4_SScbwBZFpGY_S-Wh9d0B6rdQTvU-0xS5ClqPOsheoA?e=5IKehu) para acessar o OndeDrive 
+  Antes de tudo, você deve acessar este link clicando [aqui](https://alunosatcedu-my.sharepoint.com/:f:/g/personal/jefferson_57221_alunosatc_edu_br/Ep4_SScbwBZFpGY_S-Wh9d0B6rdQTvU-0xS5ClqPOsheoA?e=wVx5ys) para acessar o OndeDrive 
 e realizar o download do arquivo que será colocado em seu cartão MicroSD.
 
   Após isso, clique aqui para acessar o site para poder baixar o [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/). Depois disso, 
